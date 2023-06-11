@@ -1,7 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](kxpatil.io)
 
-<h3 align="center">A passionate developer </h3>
-<img align="right" alt="Coding" width="400" src="https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/44oj2847JshvH8bktR7JyM/070c9adb7b012836066efe8ee53ae4a9/HTML_CSS_JS.gif">
+<img src="https://c4.wallpaperflare.com/wallpaper/66/41/250/cyberpunk-futuristic-computer-interfaces-wallpaper-preview.jpg" style="width:100%;">
+
+
+<h3 align="center">A passionate developer & cyber security enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Monishborvankar&label=Profile%20views&color=orange&style=flat"  /> </p>
 
